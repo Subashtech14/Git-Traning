@@ -1,3 +1,5 @@
+                           GIT COMMANDS
+
 git --version       -> Version of Git
 git init            -> Initialized empty Git repository 
 git Status          -> Check the status of git
