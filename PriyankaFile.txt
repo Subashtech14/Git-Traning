@@ -1,1 +1,8 @@
-Hello Priyanka!!
+git --version       -> Version of Git
+git init            -> Initialized empty Git repository 
+git Status          -> Check the status of git
+git add filename    -> Add Single File
+git add --all       -> Add multiple file in directory.
+git commit -m "msg" -> Stage to Commit the file
+git log             -> History of Commit
+git log --oneline   -> get commit ID
